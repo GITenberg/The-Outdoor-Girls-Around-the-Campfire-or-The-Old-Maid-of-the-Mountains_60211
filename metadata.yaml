@@ -1,0 +1,32 @@
+_repo: The-Outdoor-Girls-Around-the-Campfire-or-The-Old-Maid-of-the-Mountains_60211
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: http://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_issued: '2019-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60211'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mystery and detective stories'
+- !lcsh 'Girls -- Societies and clubs -- Juvenile fiction'
+- !lcsh 'Tents -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Humanitarianism -- Juvenile fiction'
+- !lcsh 'Hermits -- Juvenile fiction'
+- !lcsh 'Boats and boating -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Camping -- Juvenile fiction'
+- !lcsh 'Clubs -- Juvenile fiction'
+- !lcsh 'Girls -- Juvenile fiction'
+- GITenberg
+title: The Outdoor Girls Around the Campfire; or, The Old Maid of the Mountains
+url: http://www.gutenberg.org/ebooks/60211
